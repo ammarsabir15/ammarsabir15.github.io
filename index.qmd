@@ -7,14 +7,17 @@ about:
   image-shape: round
   image-width: 17em
   links: # create buttons
-    - text: LinkedIn
-      href: https://www.linkedin.com/in/samanthacsik/
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ammar-sabir-cheema-phd-7640486a/
       target: _blank # opens link in a new browser tab
-    - text: GitHub
-      href: https://github.com/samanthacsik
+    - icon: github
+      text: GitHub
+      href: https://github.com/ammarsabir15
       target: _blank 
-    - text: Email
-      href: mailto:scsik@ucsb.edu
+    - icon: envelope
+      text: Email
+      href: mailto:ammarsabir15@gmail.com
 ---
 
 # \~ landing page content / text omitted for brevity \~

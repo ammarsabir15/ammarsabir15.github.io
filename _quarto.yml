@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Sam Csik"
+  title: "Ammar Sabir Cheema"
   navbar:
     right: # accepts right/left/center; you can also place items individually on the left, right, and center
       - href: index.qmd
