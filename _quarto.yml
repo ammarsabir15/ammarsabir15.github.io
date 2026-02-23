@@ -3,19 +3,24 @@ project:
   output-dir: docs
 
 website:
-  title: "Ammar Sabir Cheema"
+  title: "Sam Csik"
   navbar:
-    left:
+    right: # accepts right/left/center; you can also place items individually on the left, right, and center
       - href: index.qmd
         text: Home
       - about.qmd
-      - resources.qmd
+      - href: resources.qmd
+        text: Resources
+      - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
+        text: CV
+        target: _blank # opens link (or page) in a new browser tab
+      - icon: github # add icons as navbar buttons
+        href: https://github.com/ammarsabir15
+        target: _blank
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
+    theme: cosmo
     css: styles.css
+    toc: true
     page-layout: full
-
