@@ -1,6 +1,6 @@
 ---
-# title: "Samantha Csik" # optional (omitted in example screenshots); this title appears under your photo
-image: file/path/to/headshot.jpeg # a great spot for your professional headshot :) 
+# title: "Ammar Sabir Cheema" 
+image: img/myimage.jpeg # a great spot for your professional headshot :) 
 toc: false # disable table of contents for this page (if applicable)
 about: 
   template: jolla 
@@ -16,5 +16,5 @@ about:
     - text: Email
       href: mailto:scsik@ucsb.edu
 ---
-        
-# ~ landing page content / text omitted for brevity ~        
+
+# \~ landing page content / text omitted for brevity \~
