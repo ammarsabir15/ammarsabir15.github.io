@@ -1,11 +1,11 @@
 ---
-title: "ammarsabir15.github.io"
+title: "Ammar Sabir Cheema"
 ---
 
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
+```{}
+Hi, my name is Ammar Sabir Cheema
 ```
