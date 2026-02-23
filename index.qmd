@@ -1,11 +1,19 @@
 ---
 title: "Ammar Sabir Cheema"
+1image: media/headshot.jpeg
+2toc: false
+about: 
+  template: jolla
+  image-shape: round
+  image-width: 17em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/samanthacsik/
+    - text: GitHub
+      href: https://github.com/samanthacsik
+    - text: Email
+      href: mailto:scsik@ucsb.edu
 ---
+        
+# page content excluded for brevity ~
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{}
-Hi, my name is Ammar Sabir Cheema
-```
