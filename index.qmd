@@ -1,19 +1,20 @@
 ---
-title: "Ammar Sabir Cheema"
-1image: media/headshot.jpeg
-2toc: false
+# title: "Samantha Csik" # optional (omitted in example screenshots); this title appears under your photo
+image: file/path/to/headshot.jpeg # a great spot for your professional headshot :) 
+toc: false # disable table of contents for this page (if applicable)
 about: 
-  template: jolla
+  template: jolla 
   image-shape: round
   image-width: 17em
-  links:
+  links: # create buttons
     - text: LinkedIn
       href: https://www.linkedin.com/in/samanthacsik/
+      target: _blank # opens link in a new browser tab
     - text: GitHub
       href: https://github.com/samanthacsik
+      target: _blank 
     - text: Email
       href: mailto:scsik@ucsb.edu
 ---
         
-# page content excluded for brevity ~
-
+# ~ landing page content / text omitted for brevity ~        
