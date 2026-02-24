@@ -20,4 +20,5 @@ about:
       href: mailto:ammarsabir15@gmail.com
 ---
 
-# \~ landing page content / text omitted for brevity \~
+## Turning Complex Omics Data into Reliable Biological Insight
+

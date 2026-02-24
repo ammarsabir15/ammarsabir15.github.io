@@ -5,24 +5,34 @@ project:
 website:
   title: "Ammar Sabir Cheema"
   navbar:
-    right: # accepts right/left/center; you can also place items individually on the left, right, and center
+    title: false
+    left: # accepts right/left/center; you can also place items individually on the left, right, and center
       - href: index.qmd
-        text: Home
-      - about.qmd
-      - href: resources.qmd
-        text: Resources
-      - href: file/path/to/myCV.pdf # providing a relative file path to a pdf will open up a browser-based pdf viewer when clicked
-        text: CV
-        target: _blank # opens link (or page) in a new browser tab
+        text: "{{< fa house-user >}} Home"
+      - href: services.qmd
+        text: "{{< fa dna >}} Services" 
+      - href: studies.qmd
+        text: "{{< fa chart-line >}} Case Studies"
+      - href: about.qmd
+        text: "{{< fa address-card >}} About"
+      - href: blog.qmd
+        text: "{{< fa laptop-code >}} Blog"
+      - href: mailto:ammarsabir15@gmail.com
+        text: "{{< fa paper-plane >}} Contact"
+    right:
       - icon: github # add icons as navbar buttons
         href: https://github.com/ammarsabir15
         target: _blank
+      - icon: linkedin
+        href: https://www.linkedin.com/in/ammar-sabir-cheema-phd-7640486a/
   page-footer: 
     left: Copyright 2025, Ammar Sabir Cheema
     right: This website is built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/samanthacsik/samanthacsik.github.io){target=_blank}, [{{< fa brands r-project title="R Project" >}}](https://www.r-project.org/about.html){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
 format:
   html:
-    theme: cosmo
+    theme: 
+      light: yeti 
+      dark: solar
     css: styles.css
     toc: true
     page-layout: full

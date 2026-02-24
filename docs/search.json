@@ -9,8 +9,43 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "~ landing page content / text omitted for brevity ~",
+    "title": "Ammar Sabir Cheema",
     "section": "",
-    "text": "~ landing page content / text omitted for brevity ~"
+    "text": "Independent bioinformatics consulting for research laboratories and biotech teams.\nI design and implement rigorous computational workflows for genomics, transcriptomics, and integrative multi-omics analysis — transforming raw sequencing data into reproducible, interpretable scientific results."
+  },
+  {
+    "objectID": "index.html#turning-complex-omics-data-into-reliable-biological-insight",
+    "href": "index.html#turning-complex-omics-data-into-reliable-biological-insight",
+    "title": "Ammar Sabir Cheema",
+    "section": "",
+    "text": "Independent bioinformatics consulting for research laboratories and biotech teams.\nI design and implement rigorous computational workflows for genomics, transcriptomics, and integrative multi-omics analysis — transforming raw sequencing data into reproducible, interpretable scientific results."
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Ammar Sabir Cheema",
+    "section": "What I Do",
+    "text": "What I Do\n\nMulti-Omics Data Analysis\nEnd-to-end analysis of RNA-seq and integrative omics datasets — from quality control and quantification to statistical modeling and biological interpretation.\n\n\nPipeline Development & Automation\nDesign of structured, reproducible computational workflows with clear documentation and scalable architecture.\n\n\nStatistical Modeling & Interpretation\nDifferential expression analysis, integrative modeling, and robust statistical evaluation tailored to research and translational objectives.\n\n\nReproducible Workflow Design\nTransparent, version-controlled systems that ensure long-term maintainability and reproducibility."
+  },
+  {
+    "objectID": "index.html#selected-work",
+    "href": "index.html#selected-work",
+    "title": "Ammar Sabir Cheema",
+    "section": "Selected Work",
+    "text": "Selected Work\nIntegrative Transcriptomics Analysis\nDesigned reproducible workflows for multi-omics datasets enabling biologically interpretable classification and signature discovery.\nAutomated Genomics Pipelines\nDeveloped structured computational pipelines for scalable sequencing data processing and downstream analysis.\nTranslational Data Integration\nImplemented statistical integration strategies to support responder/non-responder modeling in complex datasets."
+  },
+  {
+    "objectID": "index.html#why-work-with-me",
+    "href": "index.html#why-work-with-me",
+    "title": "Ammar Sabir Cheema",
+    "section": "Why Work With Me",
+    "text": "Why Work With Me\n\nStrong methodological foundation in computational biology\n\nEmphasis on reproducibility and structured workflow architecture\n\nClear communication with both computational and wet-lab researchers\n\nIndependent, focused collaboration with direct engagement\n\nMy objective is not only to analyze data, but to build computational systems that remain reliable and interpretable beyond a single project."
+  },
+  {
+    "objectID": "index.html#lets-discuss-your-project",
+    "href": "index.html#lets-discuss-your-project",
+    "title": "Ammar Sabir Cheema",
+    "section": "Let’s Discuss Your Project",
+    "text": "Let’s Discuss Your Project\nIf you are planning a genomics or multi-omics study and require structured computational expertise, feel free to get in touch."
   }
 ]
